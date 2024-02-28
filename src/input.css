@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Outfit;
+    src: url(../assets/fonts/outfit/static/Outfit-Regular.ttf)
+};
+@font-face {
+    font-family: Outfit;
+    src: url(../assets/fonts/outfit/static/Outfit-SemiBold.ttf);
+    font-weight: bold;
+
+}
+@font-face {
+    font-family: Young-serif;
+    src: url(../assets/fonts/young-serif/YoungSerif-Regular.ttf);
+}
