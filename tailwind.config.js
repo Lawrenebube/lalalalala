@@ -4,6 +4,12 @@ module.exports = {
 
   theme: {
     extend: {
+      utilities: {
+        '.reset': {
+          all: 'initial',
+        },
+      },
+
       fontFamily: {
         outfit: ["Outfit"],
         young: ["Young-serif"],
